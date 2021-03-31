@@ -6,6 +6,7 @@ make a dynamic view inside a maze, in which you’ll have to find your way, usin
 
 # To compile && run the project :
 make [all - re - clean - fclean]
+
 ./cube3D maps/valid_map.cub
 
 # Save first rendered image :
